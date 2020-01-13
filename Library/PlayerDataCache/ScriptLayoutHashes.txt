@@ -148,5 +148,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 ab4128d61fd0f569e9652d747e186576 Assembly-CSharp.dll:.HalamanManager
 07d3270650bf57c41b136fef09ae651f Assembly-CSharp.dll:.PaddleController
-7c22bce5d7772a3526140191f1b08ec6 Assembly-CSharp.dll:.BallController
+699817b35837416527289bd9fb3bd56c Assembly-CSharp.dll:.BallController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UINetwork
+fe38b8b60c5af68f7ca7289fe980cd5e Assembly-CSharp.dll:.BolaManager
