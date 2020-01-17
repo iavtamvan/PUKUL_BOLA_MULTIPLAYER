@@ -38,4 +38,16 @@ public class HalamanManager : MonoBehaviour {
         SceneManager.LoadScene("Menu");
     }
 
+    public void GameOver()
+    {
+        SceneManager.LoadScene("EndGame");
+    }
+    public void Credit()
+    {
+        SceneManager.LoadScene("Credit");
+    }
+
+    public void Exit(){
+    Application.Quit();
+    }
 }
